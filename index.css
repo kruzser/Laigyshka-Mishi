@@ -1,0 +1,31 @@
+<html>
+    <body>
+<title>
+        Портфолио дизайнера
+    </title>
+    <link href="style.css" rel="stylesheet" type="text/css"> 
+    <header>
+        <h1>Летающие лягушки</h1>
+        <img src="https://i.pinimg.com/736x/8c/65/9b/8c659b4fc5c460a09232999249fb3705.jpg"/>
+    </header>
+    <nav>
+    <p>Прыгуче-сумашедшие аттракционы</p>
+        <article>
+            <a href="">Аттракционы-лягушки!</a>
+            <img src="https://image.made-in-china.com/202f0j00KumUzfVgsYqI/New-Design-Thrilling-Funfair-Free-Fall-Tower-Rides-Frog-Hopper-Sky-Drop-Rides-for-Wholesales.webp"/>
+        </article>
+        <article>
+            <a href="">Вкусный перекус от лягушки!</a>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjENxFHEQPaXLtLNwYNgQbmpLDqPYcvrPxIVpZEBAt5Q&s"/>
+        </article>
+        <article>
+            <a href="">Декорации в стиле лягушки!</a>
+            <img src="https://ae03.alicdn.com/kf/H6847b372e2014a2d9ede9778392dd619h.jpg"/>
+        </article>
+        <article>
+            <a href="">Сувенирчики лягушек!</a>
+            <img src="https://goods-photos.static1-sima-land.com/items/7167781/0/700.jpg?v=1675939157"/>
+        </article>
+    </nav>
+    </body>
+</html>
